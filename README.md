@@ -1,5 +1,5 @@
 \mainpage
-
+  
 json-c
 ========
 
